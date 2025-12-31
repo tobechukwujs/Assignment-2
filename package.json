@@ -1,0 +1,14 @@
+{
+  "name": "tobechukwu-website",
+  "version": "1.0.0",
+  "description": "Personal website server for Tobechukwu Egboh",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "Tobechukwu Egboh",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.0.3"
+  }
+}
